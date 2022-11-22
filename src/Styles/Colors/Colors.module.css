@@ -1,0 +1,67 @@
+.regularLink {
+  @apply
+  text-gray-500
+  font-normal
+}
+
+.blue {
+  @apply
+  text-[#096E96]
+}
+
+.red {
+  @apply
+  text-[#B90000]
+}
+
+.purple {
+  @apply
+  text-[#650095]
+}
+
+.green {
+  @apply
+  text-[#009220]
+}
+
+.blueBtn {
+  @apply
+  border-[#096E96]
+}
+
+.blueBtn{
+  @apply
+  text-gray-200
+  border-[#096E96]
+  bg-[#096E96]
+  hover:text-[#096E96] 
+  hover:bg-transparent
+
+}
+
+.redBtn {
+  @apply
+  text-gray-200
+  border-[#B90000]
+  bg-[#B90000]
+  hover:text-[#B90000]
+  hover:bg-transparent
+}
+
+.purpleBtn{
+  @apply
+  text-gray-200
+  border-[#650095]
+  bg-[#650095]
+  hover:text-[#650095]
+  hover:bg-transparent
+}
+
+.greenBtn {
+  @apply
+  text-gray-200
+  border-[#009220]
+  bg-[#009220]
+  hover:text-[#009220]
+  hover:bg-transparent
+}

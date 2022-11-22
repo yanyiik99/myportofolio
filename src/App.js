@@ -13,19 +13,19 @@ function App() {
 
   const pages = [
     {
-      path: '/',
+      path: 'myportofolio/',
       element: <Page.Home />
     },
     {
-      path: '/portofolio',
+      path: 'myportofolio/portofolio',
       element: <Page.Portofolio />
     },
     {
-      path: '/achievement',
+      path: 'myportofolio/achievement',
       element: <Page.Achievement />
     },
     {
-      path: '/project/:name',
+      path: 'myportofolio/project/:name',
       element: <Page.Project />
     },
   ]

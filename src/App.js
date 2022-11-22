@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import * as Page from './Page';
 import * as Component from './components';
 import { createStore } from "redux";
@@ -13,7 +13,7 @@ function App() {
 
   const pages = [
     {
-      path: 'myportofolio/',
+      path: '/',
       element: <Page.Home />
     },
     {

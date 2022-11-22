@@ -11,7 +11,7 @@ function Navbar() {
   const links = [
     {
       label: "Home",
-      navigate: "myportofolio/"
+      navigate: "/"
     },
     {
       label: "Portofolio",

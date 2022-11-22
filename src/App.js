@@ -17,15 +17,15 @@ function App() {
       element: <Page.Home />
     },
     {
-      path: 'myportofolio/portofolio',
+      path: '/portofolio',
       element: <Page.Portofolio />
     },
     {
-      path: 'myportofolio/achievement',
+      path: '/achievement',
       element: <Page.Achievement />
     },
     {
-      path: 'myportofolio/project/:name',
+      path: '/project/:name',
       element: <Page.Project />
     },
   ]

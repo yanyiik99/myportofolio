@@ -13,19 +13,15 @@ function Portofolio() {
   // const purple = 2;
   // const green = 2;
 
-  const [isLoading, setIsLoading] = useState(false);
-
+  const [isLoading, setIsLoading] = useState(true);
   useEffect(() => {
     setIsLoading(true);
 
     setTimeout(() => {
       setIsLoading(false)
-    }, 3000);
+    }, 1500);
 
   }, [])
-
-
-
 
   return (
     <div className='bg-[#F6F7FF]'>

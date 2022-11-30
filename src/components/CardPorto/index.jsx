@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 
 function CardPorto() {
   const navigate = useNavigate()
-  const data =  useSelector((state) => state);
+  const data =  useSelector((state) => state.data);
   const datas = data.datas;
   // Mengecek Kondisi apakah bilangan ganjil atau genap
   const evenArr = (value) => {

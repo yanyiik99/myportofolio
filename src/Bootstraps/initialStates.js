@@ -41,38 +41,6 @@ const users = {
   ]
 }
 
-// const data = {
-//   datas: [
-//     {
-//       category: "Website -",
-//       title: "Weeding Invitation",
-//       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit molestiae assumenda harum, expedita maxime ipsum ea veniam vel iusto non?",
-//       link: "LINK KOSONG",
-//       image: yuni
-//     },
-//     {
-//       category: "Design -",
-//       title: "Design Feed Instagram",
-//       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit molestiae assumenda harum, expedita maxime ipsum ea veniam vel iusto non?",
-//       link: "LINK KOSONG",
-//       image: feed
-//     },
-//     {
-//       category: "Website -",
-//       title: "Web Design Wisata Ubud",
-//       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit molestiae assumenda harum, expedita maxime ipsum ea veniam vel iusto non?",
-//       link: "LINK KOSONG",
-//       image: ubud
-//     },
-//     {
-//       category: "Design -",
-//       title: "Design Feed Instagram",
-//       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit molestiae assumenda harum, expedita maxime ipsum ea veniam vel iusto non?",
-//       link: "LINK KOSONG",
-//       image: feed
-//     }
-//   ]
-// }
 
 export const states = {
   ...users

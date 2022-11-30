@@ -5,17 +5,16 @@ import { FidgetSpinner } from 'react-loader-spinner'
 
 function Home() {
 
-    const [isLoading, setIsLoading] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     setIsLoading(true);
-
+    
     setTimeout(() => {
       setIsLoading(false)
-    }, 3000);
+    }, 1500);
 
   }, [])
-
 
   return (
     <>

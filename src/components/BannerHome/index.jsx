@@ -16,7 +16,7 @@ import { useEffect } from "react";
 
 function Banner() {
   const dispatch = useDispatch();
-  const {blue, red, purple, green, datas} = useSelector((state)=>state);
+  const {blue, red, purple, green, datas} = useSelector((state)=>state.data);
   // console.log(datas)
 
   // console.log(blue)

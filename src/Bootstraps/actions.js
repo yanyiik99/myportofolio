@@ -1,6 +1,8 @@
+import * as CONST from './constants'
+
 export const setColor = (payload) => {
   return {
-    type: "SET_COLOR",
+    type: CONST.SET_COLOR,
     payload: payload,
   }
 }

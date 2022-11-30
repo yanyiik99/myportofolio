@@ -24,7 +24,7 @@ function Navbar() {
   ]
 
   const currentLink = useLocation().pathname;
-  const { blue, red, purple, green } = useSelector((state) => state);
+  const { blue, red, purple, green } = useSelector((state) => state.data);
 
   const [nav, setNav] = useState(false)
 

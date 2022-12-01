@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/myportofolio/static/css/main.701ebdef.css",
-    "main.js": "/myportofolio/static/js/main.cd64262c.js",
-    "static/media/bg-porto.png": "/myportofolio/static/media/bg-porto.7d78b38a9b1b458128e2.png",
-    "static/media/ari.png": "/myportofolio/static/media/ari.e7720f5dfb8876d067b2.png",
-    "static/media/yuni.png": "/myportofolio/static/media/yuni.c4db291cfb8062862af4.png",
-    "static/media/ubud.png": "/myportofolio/static/media/ubud.aaa732ff43666dfe9632.png",
-    "static/media/feed.png": "/myportofolio/static/media/feed.5a3619efbbba6c9622d6.png",
-    "static/media/e-lib.png": "/myportofolio/static/media/e-lib.781ccac6435257443c69.png",
+    "main.css": "/myportofolio/static/css/main.f322a45d.css",
+    "main.js": "/myportofolio/static/js/main.2a8cf927.js",
+    "static/media/serti4.webp": "/myportofolio/static/media/serti4.a7bf1c7a34df485cef32.webp",
+    "static/media/serti8.webp": "/myportofolio/static/media/serti8.e46c7d5a36bfbc96ca10.webp",
+    "static/media/serti1.webp": "/myportofolio/static/media/serti1.1eaa44b993dde8eb7133.webp",
+    "static/media/serti7.webp": "/myportofolio/static/media/serti7.11c388e8cecc1d90095e.webp",
+    "static/media/e-lib.webp": "/myportofolio/static/media/e-lib.1215007d28edcb98dcaa.webp",
+    "static/media/serti6.webp": "/myportofolio/static/media/serti6.4b0aae1082fa97870a46.webp",
+    "static/media/serti9.webp": "/myportofolio/static/media/serti9.7d98dad6c13daa5ddb4d.webp",
+    "static/media/serti3.webp": "/myportofolio/static/media/serti3.cd102ec9d0b4e8f5450e.webp",
+    "static/media/serti5.webp": "/myportofolio/static/media/serti5.c4c0200f8587ddab8a2c.webp",
+    "static/media/yuni.webp": "/myportofolio/static/media/yuni.caae76b9b04ad521c799.webp",
+    "static/media/ari.webp": "/myportofolio/static/media/ari.0210c38c908a5f6cf411.webp",
+    "static/media/serti2.webp": "/myportofolio/static/media/serti2.115d536f28d903bd2304.webp",
+    "static/media/feed.webp": "/myportofolio/static/media/feed.1d01f9a18687b0c1c24e.webp",
+    "static/media/ubud.webp": "/myportofolio/static/media/ubud.723dd926383599e5f7db.webp",
     "static/media/js.png": "/myportofolio/static/media/js.e93badc304c784a48a4b.png",
     "static/media/react.png": "/myportofolio/static/media/react.5051972837bfd91a4ff2.png",
     "static/media/ps.png": "/myportofolio/static/media/ps.d4afe1d905f77e5245c1.png",
     "static/media/figma.png": "/myportofolio/static/media/figma.89881546bebc7a2453a1.png",
+    "static/media/bg-porto.webp": "/myportofolio/static/media/bg-porto.f4fd11a1175519eda852.webp",
     "index.html": "/myportofolio/index.html",
-    "main.701ebdef.css.map": "/myportofolio/static/css/main.701ebdef.css.map",
-    "main.cd64262c.js.map": "/myportofolio/static/js/main.cd64262c.js.map"
+    "main.f322a45d.css.map": "/myportofolio/static/css/main.f322a45d.css.map",
+    "main.2a8cf927.js.map": "/myportofolio/static/js/main.2a8cf927.js.map"
   },
   "entrypoints": [
-    "static/css/main.701ebdef.css",
-    "static/js/main.cd64262c.js"
+    "static/css/main.f322a45d.css",
+    "static/js/main.2a8cf927.js"
   ]
 }

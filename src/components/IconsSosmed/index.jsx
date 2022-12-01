@@ -1,12 +1,12 @@
 import classNames from 'classnames';
 import Colors from '../../Styles/Colors/Colors.module.css';
 import { BsWhatsapp, BsInstagram, BsFacebook, BsGithub } from "react-icons/bs";
+import { useSelector } from 'react-redux';
 
 function IconsSosmed(props) {
-  const blue = props.blue
-  const red = props.red
-  const purple = props.purple
-  const green = props.green
+
+  const { blue, red, purple, green } = useSelector((state) => state.data);
+
 
   return (
     <>

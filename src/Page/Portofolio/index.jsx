@@ -1,5 +1,5 @@
 import * as Layout from '../../Layouts';
-import bgPorto from '../../Assets/images/bg-porto.png';
+import bgPorto from '../../Assets/images/bg-porto.webp';
 import * as Component from '../../components';
 import { AiOutlineFileSearch } from "react-icons/ai";
 import { useEffect, useState } from 'react';
@@ -8,11 +8,6 @@ import { FidgetSpinner } from 'react-loader-spinner'
 
 
 function Portofolio() {
-  // const blue = 2;
-  // const red = 2;
-  // const purple = 2;
-  // const green = 2;
-
   const [isLoading, setIsLoading] = useState(true);
   useEffect(() => {
     setIsLoading(true);
@@ -24,7 +19,7 @@ function Portofolio() {
   }, [])
 
   return (
-    <div className='bg-[#F6F7FF]'>
+    <div className='bg-color-background'>
       <Layout.Navbar />
 
       {

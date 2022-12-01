@@ -1,7 +1,7 @@
-import yuni from '../Assets/images/porto/yuni.png'
-import feed from '../Assets/images/porto/feed.png'
-import ubud from '../Assets/images/porto/ubud.png'
-import eLib from '../Assets/images/porto/e-lib.png'
+import yuni from '../Assets/images/porto/yuni.webp'
+import feed from '../Assets/images/porto/feed.webp'
+import ubud from '../Assets/images/porto/ubud.webp'
+import eLib from '../Assets/images/porto/e-lib.webp'
 
 
 const users = {

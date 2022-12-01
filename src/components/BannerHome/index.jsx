@@ -1,6 +1,6 @@
 import { BsFillCircleFill } from "react-icons/bs";
 import * as Component from '..';
-import ari from '../../Assets/images/ari.png';
+import ari from '../../Assets/images/ari.webp';
 import js from '../../Assets/images/js.png';
 import rc from '../../Assets/images/react.png';
 import fg from '../../Assets/images/figma.png';

@@ -17,7 +17,7 @@ function Home() {
   }, [])
 
   return (
-    <>
+    <div className=''>
       <Layout.Navbar />
       {
         isLoading ? 
@@ -39,7 +39,7 @@ function Home() {
             <Banner />
           </>
       }
-    </>
+    </div>
   )
 }
 

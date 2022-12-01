@@ -1,6 +1,6 @@
 import classNames from 'classnames';
 import Colors from '../../Styles/Colors/Colors.module.css';
-import { BsWhatsapp, BsInstagram, BsFacebook, BsGithub } from "react-icons/bs";
+import { BsWhatsapp, BsInstagram, BsFacebook, BsGithub, BsDribbble } from "react-icons/bs";
 import { useSelector } from 'react-redux';
 
 function IconsSosmed(props) {
@@ -28,6 +28,9 @@ function IconsSosmed(props) {
         </a>
         <a href="https://web.facebook.com/wayanari.pramanaputra/" target="_blank" rel="noreferrer">
           <BsFacebook className={classNames(props.aClassName)} />
+        </a>
+        <a href="https://dribbble.com/yanyiik99" target="_blank" rel="noreferrer">
+          <BsDribbble className={classNames(props.aClassName)} />
         </a>
       </div>
     </>

@@ -89,10 +89,6 @@ function Banner() {
             <Component.IconsSosmed 
               className="flex pl-10" 
               aClassName="text-4xl ml-6"
-              blue={blue} 
-              red={red}
-              purple={purple}
-              green={green}
             />
 
             
@@ -179,9 +175,9 @@ function Banner() {
 
 
         {/* Right Side */}
-        <div className="text-3xl pt-28 max-w-full lg:w-2/4 relative -z-10 h-screen bg-gradient-to-b from-[#025381] to-[#7ACFFF]">
+        <div className="text-3xl pt-28 max-w-full lg:w-2/4 relative -z-10 h-[99vh] bg-gradient-to-b from-[#025381] to-[#7ACFFF]">
           <div className="flex">
-            <marquee className="text-white text-lg" behavior="scroll" direction="left" >hire me 
+            <marquee className="text-white text-lg" behavior="scroll" direction="left" >Goals
               <span className="pl-24">kuliah</span> 
               <span className="pl-24">web design</span> 
               <span className="pl-24">bali</span> 
@@ -193,10 +189,10 @@ function Banner() {
           <img className='absolute right-20 top-60' src={js} alt="js" width="auto" height="100%" data-aos="zoom-in" data-aos-duration="300"/>
           <img className='absolute top-40 left-20' src={rc} alt="react" width="auto" height="100%" data-aos="zoom-in" data-aos-duration="600"/>
           <img className='absolute bottom-40 left-10' src={fg} alt="figma"  width="auto" height="100%" data-aos="zoom-in" data-aos-duration="900"/>
-          <img className='absolute bottom-2 right-12' src={ps} alt="photoshop" width="auto" height="100%" data-aos="zoom-in" data-aos-duration="1200"/>
+          <img className='absolute bottom-32 right-12' src={ps} alt="photoshop" width="auto" height="100%" data-aos="zoom-in" data-aos-duration="1200"/>
           {/* Image */}
           <div className='flex justify-center items-end'>
-            <img className=" absolute bottom-0 -z-10" data-aos="fade-up" data-aos-duration="2500" src={ari} alt="ari" />
+            <img className=" absolute bottom-0 -z-10" data-aos="fade-up" data-aos-offset="0" data-aos-duration="2500" src={ari} alt="ari" />
           </div>
         </div>
       </div>
